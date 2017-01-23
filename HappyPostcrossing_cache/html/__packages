@@ -1,0 +1,12 @@
+base
+ggplot2
+dplyr
+plotly
+leaflet
+maps
+rgeos
+sp
+maptools
+ggmap
+geosphere
+plyr
