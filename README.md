@@ -8,4 +8,4 @@ Locating postcards registered one day
 Postcards Connecting the World
 ![](https://blog.nycdatascience.com/wp-content/uploads/2016/11/mapping.jpeg)
 
-Blog post avaible here: [Chuan's blog](https://iamchuan.com/2016/12/22/happy-postcrossing/) 
+Blog post available here: [Chuan's blog](https://iamchuan.com/2016/12/22/happy-postcrossing/) 
